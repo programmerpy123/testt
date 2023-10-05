@@ -1,6 +1,6 @@
 FROM python:3.10-slim-buster
 
-LABEL maintainer="bigdeli.ali3@gmail.com"
+LABEL maintainer="amirrzamddi790@gmail.com"
 
 ENV PYTHONUNBUFFERED=1
 
